@@ -2,10 +2,8 @@ R Markdown
 ----------
 
 
-![](RDPG_ME_size_files/figure-markdown_github/pressure-1.png)
 Simulated RDPG
-![](RDPG_ME_size_files/figure-markdown_github/simlulated_rdpg.png)
-
+![](RDPG_ME_size_files/figure-markdown_github/simulated_rdpg.png)
 Real RDPG
 ![](RDPG_ME_size_files/figure-markdown_github/real_rdpg.png)
 
