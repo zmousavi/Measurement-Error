@@ -2,7 +2,7 @@ R Markdown
 ----------
 
 
-![](RDPG_ME_size_files/figure-markdown_github/delta_var_real_strc_size.pdf)
+![](RDPG_ME_size_files/figure-markdown_github/pressure-1.png)
 Simulated RDPG
 ![](RDPG_ME_size_files/figure-markdown_github/simlulated_rdpg.png)
 
