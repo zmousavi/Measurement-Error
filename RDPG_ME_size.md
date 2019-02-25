@@ -3,7 +3,10 @@ R Markdown
 
 
 ![](RDPG_ME_size_files/figure-markdown_github/delta_var_real_strc_size.pdf)
+Simulated RDPG
 ![](RDPG_ME_size_files/figure-markdown_github/simlulated_rdpg.png)
+
+Real RDPG
 ![](RDPG_ME_size_files/figure-markdown_github/real_rdpg.png)
 
 
