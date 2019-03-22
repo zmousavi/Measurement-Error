@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](RDPG_ME_size_files/figure-markdown_github/simulated_rdpg.png)
 
-![](RDPG_ME_size_files/figure-markdown_github/beta0_size.png)
+![](RDPG_ME_size_files/figure-markdown_github/beta0_size.jpg)
 
 ##Real RDPG: 
 red: naive regression coefficient estimate
