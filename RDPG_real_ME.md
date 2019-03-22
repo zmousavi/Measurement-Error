@@ -34,6 +34,6 @@ blue: true regression coefficient estimate
 ![](RDPG_ME_files/figure-markdown_github/delta_var_real_strc_size.jpg)
 
 ##mean(|Xhat1 - X1|):
-![](RDPG_ME_files/figure-markdown_github/Xhat1_bias_size.jpg)
+![](Measurement-Error/RDPG_ME_size_files/figure-markdown_github/Xhat1_bias_size.jpg)
 
 
