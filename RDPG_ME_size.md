@@ -7,6 +7,7 @@ Simulated RDPG
 Real RDPG
 ![](RDPG_ME_size_files/figure-markdown_github/real_rdpg.png)
 
+![](RDPG_ME_files/beta0_size.pdf)
 
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
