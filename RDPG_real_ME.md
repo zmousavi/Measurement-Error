@@ -11,9 +11,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](RDPG_ME_size_files/figure-markdown_github/simulated_rdpg.png)
-
-![](RDPG_ME_size_files/figure-markdown_github/beta0_size.jpg)
 
 ##Real RDPG: 
 red: naive regression coefficient estimate
@@ -21,22 +18,22 @@ green: adjusted regression coefficient estimate
 blue: true regression coefficient estimate
   
 ##b0:
-![](RDPG_ME_size_files/figure-markdown_github/beta0_size.png)
+![](RDPG_ME_size_files/figure-markdown_github/beta0_size.jpg)
 
 ##b1:
-  ![](RDPG_ME_files/beta1_size.png)
+  ![](RDPG_ME_files/figure-markdown_github/beta1_size.jpg)
 
 ##MSE Ratio:
-![](RDPG_ME_files/beta_real_strc_mse_size.png)
-![](RDPG_ME_files/beta_real_strc_mse_size_500.png)
+![](RDPG_ME_files/figure-markdown_github/beta_real_strc_mse_size.jpg)
+![](RDPG_ME_files/figure-markdown_github/beta_real_strc_mse_size_500.jpg)
 
 ##delta_bias:
-![](RDPG_ME_files/delta_bias_real_strc_size.png)
+![](RDPG_ME_files/figure-markdown_github/delta_bias_real_strc_size.jpg)
 
 ##delta_variance:
-![](RDPG_ME_files/delta_var_real_strc_size.png)
+![](RDPG_ME_files/figure-markdown_github/delta_var_real_strc_size.jpg)
 
 ##mean(|Xhat1 - X1|):
-![](RDPG_ME_files/Xhat1_bias_size.png)
+![](RDPG_ME_files/figure-markdown_github/Xhat1_bias_size.jpg)
 
 
