@@ -20,7 +20,7 @@ green: adjusted regression coefficient estimate
 blue: true regression coefficient estimate
   
 ##b0:
-![](RDPG_ME_files/beta0_size.png)
+![](RDPG_ME_size_files/figure-markdown_github/beta0_size.png)
 
 ##b1:
   ![](RDPG_ME_files/beta1_size.png)
