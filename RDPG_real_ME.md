@@ -11,6 +11,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![](RDPG_ME_size_files/figure-markdown_github/simulated_rdpg.png)
+
+
 ##Real RDPG: 
 red: naive regression coefficient estimate
 green: adjusted regression coefficient estimate
