@@ -17,11 +17,13 @@ red: naive regression coefficient estimate
 green: adjusted regression coefficient estimate
 blue: true regression coefficient estimate
 
-b0:
+beta0 coefficient:
+
+
 ![](RDPG_ME_size_files/figure-markdown_github/beta0_size.jpg)
 
-b1:
-  ![](RDPG_ME_size_files/figure-markdown_github/beta1_size.jpg)
+beta1 coefficient:
+![](RDPG_ME_size_files/figure-markdown_github/beta1_size.jpg)
 
 MSE Ratio (all graph sizes):
 ![](RDPG_ME_size_files/figure-markdown_github/beta_real_strc_mse_size.jpg)
