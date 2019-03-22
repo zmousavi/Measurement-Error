@@ -28,7 +28,7 @@ beta1 coefficient:
 MSE Ratio (all graph sizes):
 ![](RDPG_ME_size_files/figure-markdown_github/beta_real_strc_mse_size.jpg)
 
-MSE Ratio (graphs larger than 500:
+MSE Ratio (graphs larger than 500):
 ![](RDPG_ME_size_files/figure-markdown_github/beta_real_strc_mse_size_500.jpg)
 
 delta_bias:
